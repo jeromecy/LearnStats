@@ -1,0 +1,13 @@
+name: LearnStats
+title: LearnStats
+username:
+account: zhanglong
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6589885
+bundleId: 6069511
+url: https://zhanglong.shinyapps.io/LearnStats/
+when: 1656985011.37737
+lastSyncTime: 1656985011.37737
+asMultiple: FALSE
+asStatic: FALSE
